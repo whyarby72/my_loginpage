@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Latihan Login Page',
+      title: 'Berlatih Login Page',
       theme: ThemeData(primarySwatch: Colors.deepPurple),
       home: LoginPage(),
     );
